@@ -1,8 +1,8 @@
-Micro Project Work
+Loginxplore - Micro Project Work
 
-contact email : aniketdeytiu@gmail.com
+contact email : madipadigesaicharan@gmail.com
 
-LINK - https://aniket-dey2000.github.io/JsonPOwerDB.github.io/
+LINK - https://github.com/CharanMad/Microprojectloginxplore/
 
 Title of the Project : Student Enrollment Form 
 
@@ -11,7 +11,7 @@ Input Fields: {Roll-No, Full-Name, Class, Birth-Date, Address, Enrollment-Date}
 
 Primary key: Roll No.
 
-Benefits of using JsonPowerDB : 
+Benefits of using JsonPowerDB :  
 Simplest way to retrieve data in a JSON format.
 Schema-free, Simple to use, Nimble and In-Memory database.
 It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
